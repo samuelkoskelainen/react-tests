@@ -7,7 +7,7 @@ describe("fizzbuzz()", () => {
     expect(fizzbuzz(5)).toBe("buzz")
   })
 
-  it("return the given number for multiples of neither 3 nor 5", () => {
+  it("returns the given number for multiples of neither 3 nor 5", () => {
     expect(fizzbuzz(4)).toBe(4)
     expect(fizzbuzz(22)).toBe(22)
   })
