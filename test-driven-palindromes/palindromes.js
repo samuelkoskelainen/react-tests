@@ -1,3 +1,3 @@
-module.exports = (string) => {
-  return [string]
-}
+module.exports = string => {
+  return [string];
+};
