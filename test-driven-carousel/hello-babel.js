@@ -1,2 +1,2 @@
 import figlet from 'figlet';
-console.log(figlet.textSync('Hello, Babel!'));
+// console.log(figlet.textSync('Hello, Babel!'));
